@@ -1,4 +1,4 @@
-# node-template
+# nakama-node-blog
 
 ## Start the docker containers
 
